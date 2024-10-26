@@ -1,0 +1,10 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#border{
+    border-bottom: 3px solid;
+}
+#hover:hover{
+    border-bottom: 3px solid #FFC107;
+}
