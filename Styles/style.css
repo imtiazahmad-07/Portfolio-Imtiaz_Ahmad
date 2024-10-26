@@ -8,3 +8,8 @@
 #hover:hover{
     border-bottom: 3px solid #FFC107;
 }
+
+#cardHover:hover{
+    background-color: #dab33e;
+    color: white;
+}
