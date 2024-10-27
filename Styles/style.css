@@ -17,3 +17,8 @@
 .skill-logo:hover{
     filter: drop-shadow(0 0 0.75rem rgb(197, 197, 197));
 }
+
+.img-shadow:hover{
+    /* filter: drop-shadow(0 0 1rem rgb(242, 255, 0)); */
+    box-shadow: 5px 5px 50px #FFC107;
+}
